@@ -1,0 +1,5 @@
+apt update
+apt install build-essential 
+apt install vim -y
+apt install git -y
+
